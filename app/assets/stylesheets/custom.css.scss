@@ -12,4 +12,61 @@ $navbar-default-bg: #08088A;
   float:left;
   font-size: 1.7em;
   color: #fff;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#logo:hover {
+  float:left;
+  font-size: 1.7em;
+  color: #fff;
+  text-decoration:none;
+}
+
+.center {
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: asset-url('Gil-J-Klein-blue.png');
+  background-size: cover;
+  height:550px;
+}
+
+.jumbotron h1 {
+  text-align: center;
+  color: #fff;
+  letter-spacing: -1px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.btn-xlarge {
+  font-size: 1.7em;
+  letter-spacing: 1px;
+}
+
+footer {
+  margin-top: 45 px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+footer:hover {
+  color: #222;
+}
+
+footer small{
+  float:left;
+}
+
+footer ul{
+  float: right;
+  list-style: none;
+}
+
+footer ul li{
+  float: left;
+  margin-left: 15px;
 }
