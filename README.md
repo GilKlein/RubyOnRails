@@ -8,7 +8,7 @@ Articles belong to users.
 
 Articles have categories.
 
-www.ruby-on-rails-crud-blog.herokuapp.com
+https://ruby-on-rails-crud-blog.herokuapp.com
 
 
 -Gil J Klein
