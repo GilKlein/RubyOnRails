@@ -1,4 +1,4 @@
-##This is GilBook.
+## This is GilBook.
 
 It's a very basic way of showing that I can code a nice Ruby On Rails Application.
 
