@@ -5,6 +5,7 @@ It's a very basic way of showing that I can code a nice Ruby On Rails Applicatio
 Users have articles.
 
 Articles have categories.
+
 Check it out [here](https://gil-book.herokuapp.com).
 
 
